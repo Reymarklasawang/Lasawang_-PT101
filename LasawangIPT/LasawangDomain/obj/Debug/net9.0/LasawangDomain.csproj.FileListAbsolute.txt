@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\bin\Debug\net9.0\LasawangDomain.deps.json
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\bin\Debug\net9.0\LasawangDomain.dll
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\bin\Debug\net9.0\LasawangDomain.pdb
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.AssemblyInfo.cs
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.dll
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\refint\LasawangDomain.dll
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.pdb
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\ref\LasawangDomain.dll
+C:\Users\PC\Desktop\IPT\LasawangIPT101Solution\LasawangDomain\obj\Debug\net9.0\LasawangDomain.sourcelink.json
