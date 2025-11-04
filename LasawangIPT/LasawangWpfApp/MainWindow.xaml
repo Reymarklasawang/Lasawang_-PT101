@@ -1,0 +1,23 @@
+﻿<Window x:Class="LasawangWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LasawangWpfApp"
+        mc:Ignorable="d"
+               Title="MainWindow" Height="450" Width="800"
+        Background="yellow">
+    <Grid>
+        <Label Content="BANANA" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Width="256" FontFamily="Arial Black" FontSize="50"/>
+        <Rectangle HorizontalAlignment="Left" Height="240" Margin="295,122,0,0" Stroke="Black" VerticalAlignment="Top" Width="387">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/SAGING.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button Content="VARIETY" HorizontalAlignment="Left" Margin="50,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.667,0.137" Height="66" Width="171" FontSize="40" Background="#FFD41919"/>
+        <Button Content="COLOR" HorizontalAlignment="Left" Margin="50,151,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.667,0.137" Height="66" Width="171" FontSize="40" Background="#FFDC1717"/>
+        <Button Content="SIZE" HorizontalAlignment="Left" Margin="50,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.667,0.137" Height="66" Width="171" FontSize="40" Background="#FFE62222"/>
+        <Button Content="ORIGIN" HorizontalAlignment="Left" Margin="50,231,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.667,0.137" Height="66" Width="171" FontSize="40" Background="#FFEE1414"/>
+
+    </Grid>
+</Window>
